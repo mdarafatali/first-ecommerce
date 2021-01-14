@@ -97,8 +97,8 @@ header{
 }
 
 .perfect-img img{
-    height: 8rem;
-    width: 8rem;
+    height: 6rem;
+    width: 6rem;
 }
 
 
@@ -121,15 +121,15 @@ header{
 
 .nike-h1{
     color: orange;
-    font-size: 70px;
-    font-weight: 600;
+    font-size: 60px;
+    font-weight: 700;
 
 }
 
 
 .INFINITY-h1{
     color: rgb(31, 37, 70);
-    font-size: 70px;
+    font-size: 60px;
     font-weight: 700;
 }
 
