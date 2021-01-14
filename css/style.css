@@ -1,0 +1,161 @@
+
+.nav-image img{
+
+    height: 4rem;
+    width: 20rem;
+}
+
+header{
+    background-color: rgb(250, 246, 240);
+    border-radius: 5px;
+}
+
+.nav-items li{
+    padding:20px;
+}
+.nav-items a{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.banner-img img{
+    height: 100%;
+    width: 100%;
+}
+
+.banner-img{
+    height: 100%;
+    width: 100%;
+}
+
+.card-border{
+    border: 0;
+}
+
+.footer-card{
+    line-height: 0;
+    border: 0;
+    background-color: #ffffff;
+    
+}
+
+.all-button{
+    background-color: #3404b6;
+    padding: 10px 30px;
+    border: 0;
+    border-radius: 10px;
+}
+
+.all-button a{
+
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.all-button a img{
+
+    height: 40px;
+    width: 40px;
+    padding-right: 10px;
+}
+
+.card-h1{
+    color: rgb(247, 111, 96);
+    font-weight: 700;
+}
+
+.main-card-h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.card-img{
+    margin: auto;
+    padding: 10px;
+}
+
+.card-img img {
+    
+    background-color: lightblue;
+    border-radius: 10px;
+    margin: auto;
+    height: 90%;
+    width: 80%;
+}
+
+.card2-img{
+    margin: auto;
+    padding: 10px;
+}
+
+.card2-img img {
+    margin: auto;
+    height: 90%;
+    width: 80%;
+}
+
+.perfect-img img{
+    height: 8rem;
+    width: 8rem;
+}
+
+
+.round-class{
+    border-radius: 15px;
+}
+
+.shopping-image img{
+    height: 25rem;
+    width: 35rem;
+}
+
+
+.login-form{
+
+    height: 300px;
+    background-color:rgb(212, 184, 160);
+    border-radius: 1rem;
+}
+
+.nike-h1{
+    color: orange;
+    font-size: 70px;
+    font-weight: 600;
+
+}
+
+
+.INFINITY-h1{
+    color: rgb(31, 37, 70);
+    font-size: 70px;
+    font-weight: 700;
+}
+
+.footer-text{
+    padding-top: 40px; 
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.login{
+    margin: auto;
+    margin-top: 10%;
+    text-align: center;
+}
+
+.form-h1{
+
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.input-div{
+    height: 40px;
+    width: 250px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px;
+}
