@@ -36,12 +36,14 @@ header{
     line-height: 0;
     border: 0;
     background-color: #ffffff;
+    display: flex;
+    flex-wrap: wrap;
     
 }
 
 .all-button{
     background-color: #3404b6;
-    padding: 10px 30px;
+    padding: 10px 20px;
     border: 0;
     border-radius: 10px;
 }
